@@ -73,5 +73,4 @@ while True:
         print("Invalid action, please try again.")
         
     if team and money >= 1000:
-       print("Congratulations! You've won the game. Thank you for Playing!")
-    
+       print("Congratulations! You've won the game. Thank you for Playing!") 
